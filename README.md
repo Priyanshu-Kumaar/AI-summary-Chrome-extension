@@ -24,7 +24,7 @@ This extension is not published on the Chrome Web Store yet. To install it manua
 
 1. **Download or clone this repository**:
    ```bash
-   git clone https://github.com/your-username/AI-summary-Chrome-extension.git
+   git clone https://github.com/priyanshu-kumaar/AI-summary-Chrome-extension.git
 
 2.Open Chrome and go to:-
 chrome://extensions/
